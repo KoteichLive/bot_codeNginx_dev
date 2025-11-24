@@ -10,7 +10,7 @@ import uuid
 
 dupend = []
 
-API_TOKEN = '8512053768:AAG9SOaSzlfXQqdyLXmzL3-VGLzM3jkqws4'
+API_TOKEN = '8512053762322'
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
